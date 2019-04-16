@@ -1,6 +1,10 @@
 # Pop! Whiz! Bang! Episode 29: Accessible Comics
 Episode: https://soundcloud.com/pwbpod/popwhizbang-episode-29-accessbility-in-comics
 
+## Contents
+- [\[0:00 - 7:18\] Jerry-entology and other miscellaneous intro topics](#000---718-jerry-entology-and-other-miscellaneous-intro-topics)
+- [\[7:18 - 12:24\] Why are we talking about accessible comics today?](#718---1224-why-are-we-talking-about-accessible-comics-today)
+
 ## [0:00 - 7:18] Jerry-entology and other miscellaneous intro topics
 
 _[intro music]_
@@ -123,7 +127,7 @@ _[Patrick laughs, Cordelia groans]_
 
 **Meggie:** That was a _sick burn_. _[laughter]_ That was the sickest burn that kid's ever gonna give. _[laughter]_
 
-## [7:18 - 12:24] Introduction to Accessible Comics
+## [7:18 - 12:24] Why are we talking about accessible comics today?
 
 **Meggie:** So, today we're talking about accessibility in comics, which is something that Patrick and I know very little about but that Cordelia knows quite a lot about, because you've given a couple talks about this. And we're actually going to put [your slideshow](https://www.slideshare.net/cordeliadillon/accessible-comics-id24) onto our Twitter and our Instagram - not the whole thing, but a link - for people to check out. So, that's really cool!
 
