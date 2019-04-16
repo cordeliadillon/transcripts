@@ -2,10 +2,10 @@
 Episode: https://soundcloud.com/pwbpod/popwhizbang-episode-29-accessbility-in-comics
 
 ## Contents
-- [\[0:00 - 7:18\] Jerry-entology and other miscellaneous intro topics](#000---718-jerry-entology-and-other-miscellaneous-intro-topics)
+- [\[0:00 - 7:18\] Jerry-ontology and other miscellaneous intro topics](#000---718-jerry-ontology-and-other-miscellaneous-intro-topics)
 - [\[7:18 - 12:24\] Why are we talking about accessible comics today?](#718---1224-why-are-we-talking-about-accessible-comics-today)
 
-## [0:00 - 7:18] Jerry-entology and other miscellaneous intro topics
+## [0:00 - 7:18] Jerry-ontology and other miscellaneous intro topics
 
 _[intro music]_
 
@@ -171,7 +171,7 @@ _[laughter]_
 
 **Cordelia:** Can confirm.
 
-**Patrick:* So at the Old Laundry Building...
+**Patrick:** So at the Old Laundry Building...
 
 **Cordelia:** Oh!
 
