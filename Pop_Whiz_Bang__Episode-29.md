@@ -195,11 +195,254 @@ _[laughter]_
 
 _[laughter]_ 
 
-## [12:24 - ?]
+## [12:24 - 21:09]
 
 **Cordelia:** Anyway, so that's been my passion in tech, but then I've also been making comics forever. So I was like, "How do we combine all of these, and what does it look like to make comics that are accessible to people with vision impairments?" And that can be everything from someone who's low vision to someone who's completely blind, to even if you think about color-blindness - I think it's 1 in 10 men is colorblind? How are we using colors in our stories? What impact does that have on someone who may perceive a wide variety of colors as a murky shade of brown? So that's kinda what I've been thinking about.
 
 **Meggie:** That's awesome.
 
+**Cordelia:** Yeah, and we can just kind of jump in?
+
+**Meggie:** Yeah, jump in to it! Cordelia did this awesome thing where she printed out basically a whole run-down on accessibility in comics, which is great. Like I said, Patrick and I know very little about it. Can you go through this terminology for us?
+
+**Cordelia:** Terminology! When we talk about accessibility, just to make sure everyone's on the same page here: *Accessibility* is literally making sure that everyone has access to something. We usually talk about accessibility in terms of *disability*. Disability itself is a wide spectrum. I think a lot of times, people think of disability as this binary of you either have a disability or you don't, but it's again a huge spectrum. It can be a permanent disability, it could be a temporary one, or even a situational disability. Like, what am I thinking about right now? I've got an earpiece in my ear, so I'm hearing you all really well but I am not hearing other sounds nearby as well. So that's a situational impairment that I have. Trying to think of other things...
+
+**Meggie:** I'm thinking of D&D, when we go into a cave, you and I both have dark vision, but -
+
+**Cordelia:** I don't have dark vision!
+
+**Meggie:** Oh, well _my_ character has dark vision, and the other two don't.
+
+**Patrick:** But do you have low light vision?
+
+**Meggie:** I have low light vision. I'm a Tiefling, man. I can see into the dark bowels of Hell, man.
+
+**Patrick:** Right.
+
+**Cordelia:** Exactly.
+
+**Meggie:** The other people in my party would be impaired in a low light situation.
+
+**Cordelia:** Absolutely. So if we're going to go in there and try to read a comic in that environment, I'm screwed, unless that comic has been made accessible to me in some form. ... So we think about that through this wide array of things. Again, blindness itself is a spectrum. What I like to think about with comics is how do we make comics accessible to blind people and how can we do that on the web, how can we do that with tactile comics - I'd love to chat about both web and tactile with you all because there's a lot of awesome stuff that's happening.
+
+**Meggie:** Yeah, I looked at the examples you showed me and actually - we'll get into that later, but yeah, really cool!
+
+**Cordelia:** And there's also the question of, if comics are an inherently visual medium, how _can_ you make them accessible in a non-visual way?
+
+**Meggie:** Yeah, we talked about that little bit when we were in our digital comic design class with, um, I can't remember her name! Her Instagram handle is [@teenyrobots](https://www.instagram.com/teenyrobots/).
+
+**Patrick:** [Joyce Rice](http://teenyrobots.net/)!
+
+**Meggie:** Yes, Joyce. I love her so much and I forgot her name!
+
+**Cordelia:** We love Joyce!
+
+**Meggie:** Joyce did a whole thing in our digital comics course about creating comics with access to the other senses. Including comics that, when you scrolled past them at a certain point, sound would play. Or interactive comics that would move when you got to a certain point. And since comics are a visual medium, and usually a static visual medium where things don't move, there's a lot of new work being done in terms of adding the senses to it. And it's really fun because emanata's all about adding the other five senses into a comic visually. But then technology's advancing to the point where we can actually add sound to a comic, or add motion to a comic that wasn't there before.
+
+**Cordelia:** Going back to that technology of the screen reader: If you put text on a page, it will read aloud that text, either in audio format or in braille. Some people read that in braille; there's this really cool technology called a refreshable braille display that, as you're reading lines of text, pops up new dots for you to read.
+
+**Meggie:** That's so cool.
+
+**Cordelia:** So you read that one line, then those dots go away and it puts up another set of dots, and you read that next line. That in itself is an interesting tactile experience and now I'm thinking, "Woah, what if we could create some interesting tactileness to our webcomics..."
+
+**Meggie:** I've seen some new technology where they have interactive topographical tables. They're reactive. From what I remember, it's made out of a bunch of different blocks. Then someone put their keys in the middle of this table full of blocks, and then it created a cup - 
+
+**Cordelia:** Oh woah!
+
+**Meggie:** - so that way the keys wouldn't roll off the table or something. Somebody wanted to put their computer on it, and it tilted in such a way that the computer was at the right angle. So you could do a tactile... but you'd have to do it on a smaller scale for fingertips, rather than a giant... well, I guess you could do a giant one.
+
+**Cordelia:** You could do a giant one!
+
+**Meggie:** Yeah, a giant one would also be super fucking cool.
+
+**Cordelia:** Also, going back to our favorite thing from [Matt](https://mattsilady.com/), which is that everything is a comic, why does a comic need to be visual at all? What if - is an entire room a comic?
+
+**Meggie:** I wanted to do comics in exhibits, like class or something. A lot of times when people put comics in exhibits, they just blow up the pages really big and put them on the wall. But I think it would be so much fun to have a group of people try and make comics that were specifically for an exhibitive format. Not necessarily "yeah, we're going to make the pages really big," but making a 3D comic, or making a comic that went all the way around a wall, or something you had to interact with. That's my dream... Somebody give me money and I'll do it!
+
+_[laughter]_
+
+**Cordelia:** I'm throwing fake money at you.
+
+**Meggie:** Cordelia's throwing fake - oh my god, look at all this fake money! I'm set!
+
+**Cordelia:** So much fake money. Um, so, web comics! Let's talk briefly about what are some ways that we all may struggle to understand the content of an online comic. One is, can you actually read the text? I don't know about you all, but a lot of times I run into comics that are really low resolution and the text is all grainy and weird and you can't actually discern what the words are.
+
+**Meggie:** Yeah, or the text is really, really, really tiny.
+
+**Cordelia:** Yes. So that's an issue, font size and kerning. Another thing that I've been thinking a lot about is, if you are a dyslexic reader and you can follow the images just fine, what about the text itself that's within those comics? That might be a little bit of a stumbling block. Can you even highlight the text and have that read aloud to you? That'd be kind of cool. There's the high resolution stuff, and the other access issue is: Is it in your language? Is the comic in your language? And if it's not in your language, what do you do?
+
+_[silence]_
+
+**Meggie:** Google Translate.
+
+**Patrick:** You get a really weird, messed up version of it, though. "I'm pretty sure I know what they're saying, but I don't know what they're saying."
+
+**Meggie:** The other thing is, if it's text that's embedded inside the image itself, and especially if it's hand-lettered, Google Translate doesn't translate that, does it?
+
+**Cordelia:** Unless you make it accessible to robots!
+
+**Meggie:** Okay, yes! Let's talk about talking with robots.
+
+## [21:09 - ?] Making comics accessible to robots
+
+
+**Cordelia:** Let's talk about making comics accessible to robots. This sounds like "why am I talking about robots," but it is really interesting. If we trying to make existing comics accessible, as Patrick was saying, one of the best ways to do that is to literally transcribe it. When we're transcribing it, we make it accessible to 3 different types of robots. One, in the accessibility context, is this screen reader technology. Right now, screen readers can read text just fine, but if you show it an image, it's not going to know how to interpret the image. Some people are doing all this fancy AI stuff to figure that out; on Facebook, if you upload an image, it'll be like, "This image may contain a smiling face and a tree." _[laughter]_ So it gives you a little bit of context, but if you think about all of the context and nuance of images in comics ...
+
+**Meggie:** The way that you preface this, I'm just imagining it like there's 3 robots. It's not just one robot. It's a robot, and his name is Jerry _[laughter]_ and he's like, "Yeah, I can read this, but images? I don't get that!" And you go on to the next robot. _[laughter]_ And it's just 3 robots sitting in a room and they're doing all of it.
+
+**Patrick:** The next robot's like [robot voice] "I know trees." The next one's like [in a robot voice] "Smiling faces."
+
+**Meggie:** "I know trees, I know smiley faces-"
+
+**Patrick:** Give us a 4th Jerry and we might be able to find a car and a stop sign!
+
+_[laughter]_
+
+**Meggie:** Alright, so there's screen reader robots...
+
+**Cordelia:** So there are screen reader robots that are basically taking your content and reading it aloud, or reading it in braille, to someone. Then there are search engine robots. If you transcribe your comics, there's this extra benefit: It makes it really easy for people to then find your comic again. If I'm like "Oh man, this one person on the internet is making this really cool comic about these stick people, and I remember one of them said this really funny thing, and I'm trying to find that comic again." If they could type in what happened and then find it, that'd be really cool. Fortunately, your comic is _called_ [_Stick World_](http://stickworldcomic.com/) _[laughter]_ so you can Google "stick." But imagine there's a super obscure comic - you read this amazing webcomic years and years ago - I remember this was the case when I used to read a lot of Harry Potter fan fiction. _[laughter]_ I'd remember, like, _one_ thing that happened and then I'd spend five hours trying to search for this one thing.
+
+**Meggie:** I mean, that's still a comic thing. Every day at the comics shop, we have somebody come in and they're like, "Ah, I read a comic, and the character wore green." And I'm like, "Oh God."
+
+**Patrick:** "They had, like, a _stick_ and the stick shot out fire and they were jumping. Do you know which one I'm talking about?"
+
+**Patrick:** "It was the one with the guy in it, and the thing..."
+
+**Meggie:** "It was a character, and they had super powers. I can't remember which kind. He was wearing _spandex_ at one point."
+
+**Cordelia:** Oooh, I know just the one!
+
+**Meggie:** I know just the one. 
+
+**Cordelia:** So, there's that added benefit: If we transcribe our comics, we make the content more accessible to people who use screen readers, we make it easier to find them via search engine, and then also for people who aren't speaking that language - say you find an awesome comic in Sanskrit or something -
+
+_[laughter]_
+
+**Cordelia:** - and you're like, "Wow. The art's beautiful, but I don't know what these words are." How cool would it be if there were a transcript that you could then plug into Google Translate? I don't think Google Translate actually does Sanskrit, because it's a very old language. But say you had a more modern language, like Hindi or Greek, you could just highlight all that text, paste it into Google Translate, or have it auto-translate the text for you on the page because Chrome is smart enough to do that. Then you get this international audience. So it's access in a variety of spectrums, of both the physical accessibility of can someone who's blind access this content, but also the wide-ranging, globalness of it.
+
+**Meggie:** So basically, if you're making comics, the more accessible you make your comics, the bigger your audience is going to be. _And_ it's easier for Google, and other search engines that aren't Google, like Bing, and Yahoo. _[laughs]_ Sorry.
+
+**Cordelia:** _Ask Jeeves_.
+
+**Patrick:** I was on AltaVista the other day, and I couldn't find _anything_ I wanted.
+
+**Meggie:** Oh my god, I was on somebody's computer the other day and they had _Bing_.
+
+_[laughter]_
+
+**Meggie:** I used _Bing_ the other day! I didn't even know that Bing was a thing anymore! But anyway, making your comic more accessible also behooves you as a cartoonist. Short answer.
+
+**Cordelia:** But then the question is, how do you actually do that? I'm curious if you've started to notice - I've noticed there is a trend of cartoonists transcribing; more and more people are starting to transcribe their comics.
+
+**Meggie:** Yeah, I've actually noticed that, too, and I've noticed I actually have a couple friends on Facebook who do what Cordelia does. Whenever Cordelia posts a picture on Facebook, she'll have a sentence or two describing what's happening in the actual picture. I've had a couple of friends do that as well, which is another way of doing that.
+
+**Cordelia:** Yeah, absolutely. And I should also mention in terms of talking to robots, one last thing about talking to robots -- there's a really cool website called [Oh No Robot](http://www.ohnorobot.com/), which is basically a site where you can search for comics by transcript. People have written transcripts of comics; you can submit transcripts of comics, you can transcribe your own or transcribe other people's. It's an awesome database of web comics that you can search.
+
+**Meggie:** I think the next digital comic that I do, I'll do a digital transcript for. I just don't want to go back through _Stick World_ at this point, because it's so much work and I don't know how much longer I'm gonna keep that boat afloat. But I think it's something to think about when you're creating a comic. Because if you do create a transcript, it's basically just your script pared down, going panel by panel. I think it's a smart move. If you're starting a comic, think about making that accessible script.
+
+**Patrick:** And there are, I want to say it's [The Nib](https://thenib.com/)? Is it The Nib that has transcripts of all of their comics?
+
+**Meggie:** Oh, [Everyday Feminism](https://everydayfeminism.com/) does transcripts of all of their comics.
+
+**Cordelia:** Oh, that's cool!
+
+**Meggie:** When I worked for Everyday Feminism, I had to do a transcript of all of my comics, which is really nice. And I dont know - is it The Nib, or is it, I think it's the [Believer Mag](https://believermag.com/) - we're just throwing out words here, we should probably double-check before we back any of these horses. _[laughter]_ All of the comics! _Mad Magazine!_ Peanuts!
+
+**Patrick:** It is something you're starting to see more and more.
+
+**Cordelia:** Adding a transcript, it's really useful for people who, just from looking at the comic alone, don't get all of the information out of it. And that may be due to blindness, it may be, again, just because you uploaded a really _shitty_ quality file. I know a lot of times, I have to zoom really far in to see all the specifics of things. It's neat because traditionally, unfortunately, when we talk about intersectionality, in general, and diversity, a lot of times disability is left out of the conversation. It's really neat that Everyday Feminism - that's a great example of intersectionality; they care about feminism, but they also care about accessibility and making everything inclusive. So they're thinking about readers who may have trouble reading the image files themselves. Then, if you think about, I don't know about you all, but to save data on my phone, whenever I get an email that has images in it, the images don't load. So thinking about poor internet connections as well, it's just a nice thing to have. 
+
+
+## [29:38 - ?] Transcription techniques
+
+**Cordelia:** I'd like to chat with you all about how do we actually transcribe our comics. This is something I still ...
+
+**Meggie:** Is there any kind of rulebook for how to do it, or--?
+
+**Cordelia:** No!!!
+
+_[Patrick chuckles]_
+
+**Meggie:** Cordelia gave this great example of a web comic, it wasn't _Life_...
+
+**Cordelia:** Which one? Was it [_Postcards in Braille_](http://postcards.kurisquare.com/)?
+
+**Meggie:** _Postcards in Braille_, yeah! So _Postcards in Braille_ is a web comic that features a, the main character is visually impaired. There's a transcription of all of it, of all of the comics. It's hard because, if you're doing a transcription, you want it to be more than just "This person is in this panel. This is what the speech bubble says." You kind of want it to be more interesting than that, I feel. Wouldn't you?
+
+**Cordelia:** Yeah, it's tough because, as cartoonists, we make these conscious decisions of what we're going to put in a image versus in speech balloons or, uh, you all are experts - is there an official name for --
+
+**Meggie:** Narrative boxes?
+
+**Cordelia:** Yeah, narrative boxes! That works. What do we show versus tell? For transcribing, we're telling _everything_, and it is interesting because you have to make a lot of judgement calls about what are the most important visual aspects of this comic. Do I wanna write down every single color that each person is wearing? Is that important? What is important about this panel?
+
+**Patrick:** There's a lot of stuff that you'd have to convey about the mood of the characters and the acting that's going on from the characters. Otherwise, you're giving a very, very poor version of the experience. It's not the full experience by any stretch, it's not really even an attempt. It's sort of bare-bones.
+
+**Meggie:** Here's the thing - you could do something that's very bare-bones, but I'm thinking that this could be a job that someone could have, translating a comic book page into something that's narratively intriguing as well as visually intriguing. Part of comics is the interaction between the words and the pictures. That's part of the magic of comics. If you're going to take away the pictures and just try to do it narratively - you're basically turning something visual into a mini bit of prose. That's what I'd want to do if I wanted someone to enjoy reading the comic thing. I don't wanna just have _Stick World_ be like "Red's in the left corner of the panel, and Red says, 'Fuuuck you'" - _[laughter]_ - "In the next panel, Pod says, 'What the heck, man?'"
+
+**Patrick:** I guess that's what I mean. All of the things that - even in this podcast, we've talked about how when you're writing comics, you maybe don't need to write all the things that you can't draw. But if you're going back the other way, then you totally could do that. You could be like, "There's a breeze blowing. It's a sunny day. They happily walk down the street." So it's got a narrative flow that's interesting and engaging, and not just this bare-bones skeleton version of describing the situation, because that would feel like a disservice.
+
+**Meggie:** I just feel like, in my mind, comics has been, like, you script it, you draw it, it's this third thing, and then all of a sudden, it's like, "Oh no, but there could be this fourth thing!" My brain is running with the potential and the possibilities for that. Ah, that's so cool.
+
+**Cordelia:** I feel like maybe there's no wrong way to do it, there are all different ways. So my webcomics, the form they usually take is it looks like this long, stream-of-consciousness thing; there isn't really individual panels, it's kind of text and then a scene, then text and a scene, then text and a scene. I do, when I'm transcribing those, break it out into "narration" and then this happens, and then "illustration of blah blah blah." I kind of indicate that part's text, this part's illustration. But then I have this comic book that I've been - that I _was_ - working on for 2 years, that I haven't worked on in 2 years, but that one was an autobio comic that I was working on. And my thought, if I ever publish it, is I'm going to have the comic, and then I'm going to have a downloadable audio track, which is basically me telling the same stories but in prose. Not trying to say what's happening in the actual comic, panel by panel, but just telling the same stories and adapting them a little bit, so the beats might be a little bit different.
+
+**Meggie:** Ah, no, this is so _cooool_!
+
+**Cordelia:** Yeah, sorry, now I've made it -- there's no wrong answer. Just another thing to throw into the mix here when we're transcribing our comics: Should _we_ transcribe our comics or should someone else? I ran into an issue when I was transcribing one of my retrospective comics a few years ago. I had this drawing I did of my brother-in-law juggling a bunch of quarters, and in the drawing, since I'm not super good at drawing, the quarters are just these little flat grey discs. You wouldn't really know that they were quarters, because I didn't bother putting any George Washington faces on them or anything. So then I was trying to transcribe this scene, and I was like, should I say that he is juggling _quarters_ because that's something that, if someone is looking at this image, they're not going to get that. _[laughs]_ So do I say that, or do I say that he's juggling these things... I think I ended up saying, "He's juggling these flat disks that the artist meant to be quarters."
+
+_[laughter]_
+
+**Cordelia:** I was just like, let me just tell it how it is.
+
+**Patrick:** I would wonder, too, I was thinking the same thing - when we watch TV, a lot of times we have the captions on. And a lot of times, the captions will either give away a punchline too early. Sometimes they'll give away the identity of a character who's being obscured, because they'll attribute it to the actual character. So you find out "but he was the mom the whole time!" and it'll say the mom's name. And you'll be like, [exasperated voice] "Well, I guess he must be the _mom_."
+
+_[laughter]_
+
+**Patrick:** On the one hand, I get what you're doing, you're just dumping the script into a program and breaking it out. But on the other hand, you're providing this really, really _unnnuanced_ experience for somebody who can _only_ experience it in that way. So I imagine it's a similar thing - if somebody else is going to transcribe your comic, that might actually be better because it's more reflective of the experience of someone who's only ever going to experience it as a _reader_.
+
+_[Chorus of "yeah"s from Meggie and Cordelia]_
+
+**Meggie:** I feel like that'd be a pretty awesome self-contained job. If you could get somebody who is talented enough to read a comic and then rewrite it in such a way that it would be - or write a transcript that gives you the information that you need without revealing too much or -- What the heck are you doing, Patrick?
+
+**Patrick:** I didn't have anything to draw on. I had to get a piece of paper.
+
+_[laughter]_
+
+**Meggie:** Patrick's just jealous because he doesn't have donuts on his side of the screen.
+
+**Patrick:** I don't have anything to do with my hands! Y'all have donuts.
+
+_[laughter]_
+
+**Cordelia:** That's the same sort of conversation around when people _translate_ comics from one language to another. There are certain jokes that don't translate well across cultures, so you have to make that call of, am I going to change this to one that's more culturally appropriate? If it's a pun that's wordplay that doesn't translate into the other language... It's similar. You've got these images. Hey, do I describe exactly what is happening in this visual sequence, or do I take a little bit of a creative liberty here in this description? Things are hard!
+
+**Meggie:** _[laughs]_ You heard it here first, folks! Things are hard!
+
+**Cordelia:** I also wanted to do a plug for a fantastic essay that I always, always like to reference in these types of conversations. It's called "[On Describing Comics](https://broodhollow.fandom.com/wiki/User_blog:Lianakerr/On_Describing_Comics)" and it's by Liana Kerr. It's an online wiki page about how Liana describes comics. I think the story is, one of her friends who's blind really wanted to read this particular webcomic called [_BroodHollow_](http://broodhollow.chainsawsuit.com/). Liana started transcribing it and, through that process, learned a lot about, what are the things that I should include and not include. She also transcribed _Watchmen_ -
+
+**Meggie:** Oh god.
+
+**Cordelia:** - so this essay also talks through things like, when do you talk about color? Color isn't that important, but if you have this color of red that's kind of creeping into the narrative or something, how do you --
+
+**Meggie:** -- or if something's glowing, or if a color is sometimes a signifier or symbolic in some way -- oh my god -- 
+
+**Patrick:** -- or in _Watchmen_, specifically in the middle, the 5th chapter, it's a visual palindrome. If you open it up from the center, it mirrors itself. So you draw attention to that at any point when you're describing it visually. Like, at the end, do you say, "By the way, the whole thing was a palindrome."
+
+**Meggie:** Do you talk about layouts?
+
+**Patrick:** It's a thing that's difficult to communicate, even though it's definitely a fundamental element of the book.
+
+**Meggie:** Also, if it's a standard comic book page, I feel like I would just write about the comic book page as it goes, if it's just a panel, a panel, a panel, a panel. But if it's something crazy like in _Asterios Polyp_ where David Mazzucchelli is doing all kinds of crazy shit with layouts, do you mention that?
+
+**Cordelia:** I think you do.
+
+**Patrick:** I think you _have to_. I just don't know exactly what order you'd have to put everything in.
+
+**Meggie:** Ah! This is so - I'm so happy right now. Ah, this is so crazy.
+
+**Cordelia:** It's really hard to explain. I highly recommend reading her [Liana's] article, because she also talks about that thing you were talking about, Patrick: when you have these reveals, how do you build up to these reveals? There are certain things that may be happening in the background of a panel, that you want to mention but you don't want to draw too much attention to them. This is a great article.
+
+**Meggie:** Yeah, you don't want to be like, "And the mom's _handkerchief_ is on the _back table_, in the _very back_, on the right. But let's get back to the story about the dog."
+
+**Patrick:** "In the background, there's a guy who's carrying a box." It's like, "Well, why did you even mention that? So now I know it's important to look for a guy in a box later." It's sort of like writing prose.
 
 _**to be continued**_
