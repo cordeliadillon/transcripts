@@ -2,10 +2,12 @@
 Episode: https://soundcloud.com/pwbpod/popwhizbang-episode-29-accessbility-in-comics
 
 ## Contents
-- [\[0:00 - 7:18\] Jerry-ontology and other miscellaneous intro topics](#000---718-jerry-ontology-and-other-miscellaneous-intro-topics)
+- [\[0:00 - 7:18\] Jerry-ontology and other topics](#000---718-jerry-ontology-and-other-topics)
 - [\[7:18 - 12:24\] Why are we talking about accessible comics today?](#718---1224-why-are-we-talking-about-accessible-comics-today)
+- [\[12:24 - 21:09\] An intro to accessibility and comics](#1224---2109-an-intro-to-accessibility-and-comics)
+- [\[21:09 - 29:38\] Making comics accessible to robots](#2109---2938-making-comics-accessible-to-robots)
 
-## [0:00 - 7:18] Jerry-ontology and other miscellaneous intro topics
+## [0:00 - 7:18] Jerry-ontology and other topics
 
 _[intro music]_
 
@@ -195,7 +197,7 @@ _[laughter]_
 
 _[laughter]_ 
 
-## [12:24 - 21:09]
+## [12:24 - 21:09] An intro to accessibility and comics
 
 **Cordelia:** Anyway, so that's been my passion in tech, but then I've also been making comics forever. So I was like, "How do we combine all of these, and what does it look like to make comics that are accessible to people with vision impairments?" And that can be everything from someone who's low vision to someone who's completely blind, to even if you think about color-blindness - I think it's 1 in 10 men is colorblind? How are we using colors in our stories? What impact does that have on someone who may perceive a wide variety of colors as a murky shade of brown? So that's kinda what I've been thinking about.
 
@@ -283,8 +285,7 @@ _[silence]_
 
 **Meggie:** Okay, yes! Let's talk about talking with robots.
 
-## [21:09 - ?] Making comics accessible to robots
-
+## [21:09 - 29:38] Making comics accessible to robots
 
 **Cordelia:** Let's talk about making comics accessible to robots. This sounds like "why am I talking about robots," but it is really interesting. If we trying to make existing comics accessible, as Patrick was saying, one of the best ways to do that is to literally transcribe it. When we're transcribing it, we make it accessible to 3 different types of robots. One, in the accessibility context, is this screen reader technology. Right now, screen readers can read text just fine, but if you show it an image, it's not going to know how to interpret the image. Some people are doing all this fancy AI stuff to figure that out; on Facebook, if you upload an image, it'll be like, "This image may contain a smiling face and a tree." _[laughter]_ So it gives you a little bit of context, but if you think about all of the context and nuance of images in comics ...
 
