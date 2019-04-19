@@ -1,12 +1,17 @@
 # Pop! Whiz! Bang! Episode 29: Accessible Comics
-Content warning: Curse words
-Episode: https://soundcloud.com/pwbpod/popwhizbang-episode-29-accessbility-in-comics
+
+**Episode link:** https://soundcloud.com/pwbpod/popwhizbang-episode-29-accessbility-in-comics
+
+**Content warning:** Curse words
 
 ## Quick Links
 - [\[0:00 - 7:18\] Jerry-ontology and other topics](#000---718-jerry-ontology-and-other-topics)
 - [\[7:18 - 12:24\] Why are we talking about accessible comics today?](#718---1224-why-are-we-talking-about-accessible-comics-today)
 - [\[12:24 - 21:09\] An intro to accessibility and comics](#1224---2109-an-intro-to-accessibility-and-comics)
 - [\[21:09 - 29:38\] Making comics accessible to robots](#2109---2938-making-comics-accessible-to-robots)
+- [\[29:38 - 44:20\] Transcription techniques](#2938---4420-transcription-techniques)
+- [\[44:20 - 57:15\] Tactile comics](#4420---5715-tactile-comics)
+- [\[57:15 - 59:26\] Outros](#5715---5926-outros)
 
 ## Transcript
 
@@ -357,7 +362,7 @@ _[laughter]_
 **Cordelia:** Adding a transcript, it's really useful for people who, just from looking at the comic alone, don't get all of the information out of it. And that may be due to blindness, it may be, again, just because you uploaded a really _shitty_ quality file. I know a lot of times, I have to zoom really far in to see all the specifics of things. It's neat because traditionally, unfortunately, when we talk about intersectionality, in general, and diversity, a lot of times disability is left out of the conversation. It's really neat that Everyday Feminism - that's a great example of intersectionality; they care about feminism, but they also care about accessibility and making everything inclusive. So they're thinking about readers who may have trouble reading the image files themselves. Then, if you think about, I don't know about you all, but to save data on my phone, whenever I get an email that has images in it, the images don't load. So thinking about poor internet connections as well, it's just a nice thing to have. 
 
 
-## [29:38 - 44:20] Transcription techniques
+### [29:38 - 44:20] Transcription techniques
 
 **Cordelia:** I'd like to chat with you all about how do we actually transcribe our comics. This is something I still ...
 
@@ -477,7 +482,7 @@ _[laughter]_
 
 **Meggie:** That's. So. _Awesome._ Okay, we're definitely going to tweet this link out, and I'm going to read that essay so fast.
 
-## [44:20 - ?] Tactile comics
+## [44:20 - 57:15] Tactile comics
 
 **Meggie:** But before we totally get out, because I feel like it's so easy for us to continually get into more and more avant-garde comic things, can we talk about tactile comics?
 
@@ -575,13 +580,13 @@ _[laughter]_
 
 **Meggie:** Alright, Cordelia, if people want to find you on the internet, how do they do that? Where do they go?
 
-**Cordelia:** My internet name is Cordelia Dillon, so people can find me on Twitter, Instagram, on my website, if you type in CordeliaDillon. So it's Dillon like dill pickles, not Dylan like Bob Dylan. And that'll get you to all of my different stuff. My website links to everything.
+**Cordelia:** My internet name is Cordelia Dillon, so people can find me on [Twitter](https://twitter.com/cordeliadillon), [Instagram](https://www.instagram.com/cordeliadillon), on [my website](https://www.cordeliadillon.com), if you type in CordeliaDillon. So it's Dillon like dill pickles, not Dylan like Bob Dylan. And that'll get you to all of my different stuff. My website links to everything.
 
 **Meggie:** You definitely gotta check that out. Patrick, where do people find you if they want to find you?
 
-**Patrick:** They're gonna find me on Instagram and Twitter @plutarian_2, or they can go to my website PatrickLayComics.com and find all my junk. Meggie, where they gonna find you at?
+**Patrick:** They're gonna find me on [Instagram](https://www.instagram.com/Plutarian_2) and [Twitter](https://twitter.com/Plutarian_2) @plutarian_2, or they can go to my website PatrickLayComics.com and find all my junk. Meggie, where they gonna find you at?
 
-**Meggie:** I am MeggieTheRamm on Patreon, Instagram, Twitter. If you want to find _us_ and talk to us about this episode - I'm not gonna lie, I fuckin' loved this one - you can email us at pwbpod@gmail.com or check us out on Twitter or Instagram @pop_whiz_bang. Am I missing any of our social media, Patrick?
+**Meggie:** I am MeggieTheRamm on [Patreon](https://www.patreon.com/meggietheramm), [Instagram](https://www.instagram.com/meggietheramm/), [Twitter](https://twitter.com/meggietheramm/). If you want to find _us_ and talk to us about this episode - I'm not gonna lie, I fuckin' loved this one - you can email us at pwbpod@gmail.com or check us out on Twitter or Instagram @pop_whiz_bang. Am I missing any of our social media, Patrick?
 
 **Patrick:** I think we got it all! _[laughs]_
 
