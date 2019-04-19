@@ -1,6 +1,6 @@
 # Pop! Whiz! Bang! Episode 29: Accessible Comics
 
-**Episode link:** https://soundcloud.com/pwbpod/popwhizbang-episode-29-accessbility-in-comics
+**Episode link:** [https://soundcloud.com/pwbpod/popwhizbang-episode-29-accessbility-in-comics](https://soundcloud.com/pwbpod/popwhizbang-episode-29-accessbility-in-comics)
 
 **Content warning:** Curse words
 
