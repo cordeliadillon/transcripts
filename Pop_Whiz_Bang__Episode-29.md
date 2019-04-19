@@ -584,9 +584,9 @@ _[laughter]_
 
 **Meggie:** You definitely gotta check that out. Patrick, where do people find you if they want to find you?
 
-**Patrick:** They're gonna find me on [Instagram](https://www.instagram.com/Plutarian_2) and [Twitter](https://twitter.com/Plutarian_2) @plutarian_2, or they can go to my website PatrickLayComics.com and find all my junk. Meggie, where they gonna find you at?
+**Patrick:** They're gonna find me on [Instagram](https://www.instagram.com/Plutarian_2) and [Twitter](https://twitter.com/Plutarian_2) @plutarian_2, or they can go to my website [PatrickLayComics.com](https://www.patricklaycomics.com/) and find all my junk. Meggie, where they gonna find you at?
 
-**Meggie:** I am MeggieTheRamm on [Patreon](https://www.patreon.com/meggietheramm), [Instagram](https://www.instagram.com/meggietheramm/), [Twitter](https://twitter.com/meggietheramm/). If you want to find _us_ and talk to us about this episode - I'm not gonna lie, I fuckin' loved this one - you can email us at pwbpod@gmail.com or check us out on Twitter or Instagram @pop_whiz_bang. Am I missing any of our social media, Patrick?
+**Meggie:** I am MeggieTheRamm on [Patreon](https://www.patreon.com/meggietheramm), [Instagram](https://www.instagram.com/meggietheramm/), [Twitter](https://twitter.com/meggietheramm/). If you want to find _us_ and talk to us about this episode - I'm not gonna lie, I fuckin' loved this one - you can email us at [pwbpod@gmail.com](mailto:pwdbpod@gmail.com) or check us out on [Twitter](https://twitter.com/pop_whiz_bang/) or [Instagram](https://www.instagram.com/pop_whiz_bang) @pop_whiz_bang. Am I missing any of our social media, Patrick?
 
 **Patrick:** I think we got it all! _[laughs]_
 
