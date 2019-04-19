@@ -1,13 +1,16 @@
 # Pop! Whiz! Bang! Episode 29: Accessible Comics
+Content warning: Curse words
 Episode: https://soundcloud.com/pwbpod/popwhizbang-episode-29-accessbility-in-comics
 
-## Contents
+## Quick Links
 - [\[0:00 - 7:18\] Jerry-ontology and other topics](#000---718-jerry-ontology-and-other-topics)
 - [\[7:18 - 12:24\] Why are we talking about accessible comics today?](#718---1224-why-are-we-talking-about-accessible-comics-today)
 - [\[12:24 - 21:09\] An intro to accessibility and comics](#1224---2109-an-intro-to-accessibility-and-comics)
 - [\[21:09 - 29:38\] Making comics accessible to robots](#2109---2938-making-comics-accessible-to-robots)
 
-## [0:00 - 7:18] Jerry-ontology and other topics
+## Transcript
+
+### [0:00 - 7:18] Jerry-ontology and other topics
 
 _[intro music]_
 
@@ -129,7 +132,7 @@ _[Patrick laughs, Cordelia groans]_
 
 **Meggie:** That was a _sick burn_. _[laughter]_ That was the sickest burn that kid's ever gonna give. _[laughter]_
 
-## [7:18 - 12:24] Why are we talking about accessible comics today?
+### [7:18 - 12:24] Why are we talking about accessible comics today?
 
 **Meggie:** So, today we're talking about accessibility in comics, which is something that Patrick and I know very little about but that Cordelia knows quite a lot about, because you've given a couple talks about this. And we're actually going to put [your slideshow](https://www.slideshare.net/cordeliadillon/accessible-comics-id24) onto our Twitter and our Instagram - not the whole thing, but a link - for people to check out. So, that's really cool!
 
@@ -197,7 +200,7 @@ _[laughter]_
 
 _[laughter]_ 
 
-## [12:24 - 21:09] An intro to accessibility and comics
+### [12:24 - 21:09] An intro to accessibility and comics
 
 **Cordelia:** Anyway, so that's been my passion in tech, but then I've also been making comics forever. So I was like, "How do we combine all of these, and what does it look like to make comics that are accessible to people with vision impairments?" And that can be everything from someone who's low vision to someone who's completely blind, to even if you think about color-blindness - I think it's 1 in 10 men is colorblind? How are we using colors in our stories? What impact does that have on someone who may perceive a wide variety of colors as a murky shade of brown? So that's kinda what I've been thinking about.
 
@@ -285,7 +288,7 @@ _[silence]_
 
 **Meggie:** Okay, yes! Let's talk about talking with robots.
 
-## [21:09 - 29:38] Making comics accessible to robots
+### [21:09 - 29:38] Making comics accessible to robots
 
 **Cordelia:** Let's talk about making comics accessible to robots. This sounds like "why am I talking about robots," but it is really interesting. If we trying to make existing comics accessible, as Patrick was saying, one of the best ways to do that is to literally transcribe it. When we're transcribing it, we make it accessible to 3 different types of robots. One, in the accessibility context, is this screen reader technology. Right now, screen readers can read text just fine, but if you show it an image, it's not going to know how to interpret the image. Some people are doing all this fancy AI stuff to figure that out; on Facebook, if you upload an image, it'll be like, "This image may contain a smiling face and a tree." _[laughter]_ So it gives you a little bit of context, but if you think about all of the context and nuance of images in comics ...
 
@@ -354,7 +357,7 @@ _[laughter]_
 **Cordelia:** Adding a transcript, it's really useful for people who, just from looking at the comic alone, don't get all of the information out of it. And that may be due to blindness, it may be, again, just because you uploaded a really _shitty_ quality file. I know a lot of times, I have to zoom really far in to see all the specifics of things. It's neat because traditionally, unfortunately, when we talk about intersectionality, in general, and diversity, a lot of times disability is left out of the conversation. It's really neat that Everyday Feminism - that's a great example of intersectionality; they care about feminism, but they also care about accessibility and making everything inclusive. So they're thinking about readers who may have trouble reading the image files themselves. Then, if you think about, I don't know about you all, but to save data on my phone, whenever I get an email that has images in it, the images don't load. So thinking about poor internet connections as well, it's just a nice thing to have. 
 
 
-## [29:38 - ?] Transcription techniques
+## [29:38 - 44:20] Transcription techniques
 
 **Cordelia:** I'd like to chat with you all about how do we actually transcribe our comics. This is something I still ...
 
@@ -440,10 +443,164 @@ _[laughter]_
 
 **Meggie:** Ah! This is so - I'm so happy right now. Ah, this is so crazy.
 
-**Cordelia:** It's really hard to explain. I highly recommend reading her [Liana's] article, because she also talks about that thing you were talking about, Patrick: when you have these reveals, how do you build up to these reveals? There are certain things that may be happening in the background of a panel, that you want to mention but you don't want to draw too much attention to them. This is a great article.
+**Cordelia:** It's really hard to explain. I highly recommend reading her [Liana's] article, because she also talks about that thing you were talking about, Patrick; when you have these reveals, how do you build up to these reveals? There are certain things, subtle things, that may be happening in the background of a panel, that you want to mention but you don't want to draw too much attention to them. This is a great article.
 
 **Meggie:** Yeah, you don't want to be like, "And the mom's _handkerchief_ is on the _back table_, in the _very back_, on the right. But let's get back to the story about the dog."
 
-**Patrick:** "In the background, there's a guy who's carrying a box." It's like, "Well, why did you even mention that? So now I know it's important to look for a guy in a box later." It's sort of like writing prose.
+**Patrick:** "In the background, there's a guy who's carrying a box." It's like, "Well, why did you even mention that, unless it's really important? So now I know to look for a guy in a box later."
 
-_**to be continued**_
+**Meggie:** In terms of that, it's sort of like in Netflix when they bring attention to something without actually ... A side character will be like, "Oh yeah, and the moon is getting darker," and you're like, "Wait, that's weird, we've never talked about the moon before." That kinda thing. Oh, sorry, and Patrick I stepped on your words.
+
+**Patrick:** You're good! It's like writing prose, except it has to be directly related to the original visual source material. Otherwise, it becomes its own thing entirely. So on the one hand, it feels like a trained prose writer, or an experienced prose writer, would be really good at this. Except for you'd have to resist the temptation at all moments to do anything that wasn't already in the source material.
+
+**Meggie:** You know what would be cool? Somebody's probably already done this, but what if you had some story and you just translated it into all the different mediums.
+
+**Cordelia:** That'd be cool.
+
+**Meggie:** So you'd have somebody make it into a book, somebody make it into a short film, somebody make it into a comic, somebody make it into a song. And then at the end, you vote and see who did best! _[laughter]_ No, you don't do that. You see that all the time with fairy tales, like Cinderella's been done way too many times by way too many people, both in terms of books and movies.
+
+**Patrick:** Romeo and Juliet is _all of those_ things, at some point in time or another.
+
+**Meggie:** Yes. [laughs] Good point!
+
+**Cordelia:** Going back to that idea of you have to reference these comic elements. I will say a million times, go read this "On Describing Comics" article - maybe we can link it somewhere.
+
+**Meggie:** We'll link to it and we'll put it out on our Twitter. We got so many good links coming out of this episode!
+
+**Cordelia:** But I wanted to - can I read a quote from it that I really liked?
+
+**Meggie:** Yeah, go for it!
+
+**Cordelia:** Liana said, talking about transcribing _Broodhollow_, which is this great webcomic:
+
+>  _I also note if there's comic shorthand, such as short lines around someone's head indicating surprise,_ [aka emanata] _dotted lines indicating the direction someone is looking or stars indicating pain. That's because Straub_ [the author] _has chosen to present Broodhollow as a comic, not as a novel or a video, and I want to preserve the feeling of experiencing something that's different from other media._
+
+**Meggie:** That's. So. _Awesome._ Okay, we're definitely going to tweet this link out, and I'm going to read that essay so fast.
+
+## [44:20 - ?] Tactile comics
+
+**Meggie:** But before we totally get out, because I feel like it's so easy for us to continually get into more and more avant-garde comic things, can we talk about tactile comics?
+
+**Cordelia:** _Yes._
+
+**Meggie:** The examples that you put up are really cool, and I want to talk a little bit about _Shapereader_ later. First, can you give us a little preface about what tactile comics are like?
+
+**Cordelia:** Yeah! Tactile comics are ones that you can feel! And again, this goes into this idea of, do we transcribe? I guess you could take an existing comic and try to make it tactile. I went to a _really_ interesting talk at an accessibility conference by some folks who were actually experimenting with this. As a model of this, they were basically taking superhero comics and raising the lines, so the lines were tactile, and then replacing the speech balloons with braille. That's a really cool idea, but they were finding that didn't really play out too well because if you think about the lines used to draw a face in 3/4 profile, that's, like...
+
+**Meggie:** So smushy.
+
+**Cordelia:** It's so smushy, and it's not nearly the same as if you were to - what if you made that same comic, like, you 3D printed actual figurines that people could touch in 360 to see, oh, Superman is flying and I can feel the cape flying out from him. I can feel the shape of his nose from different dimensions.
+
+**Meggie:** Yeah. Cordelia provided us with this example of this comic called _Life_ by Phillip Meyer, which is basically a very short story that's partially told in braille, but it's told in raised dots. It's basically two circles that start out, and one circle is distinguished from the other circle because one is empty and the other circle is filled in with dots. The circles come together, a third circle appears, and then the circles visually and tactilely dissipate. It's supposed to be indicative of life. Phillip worked with his friend, who is also visually impaired, and was talking about all the different kinds of process they went through to do this. I _think_ that it was a very good outcome of the project, but it's really hard to say how complex you could make the story with that. He had to pare it down to the bare minimum. It's, like, circles, because there's only so much information that you can get - if I was reading that superhero page, I couldn't get any of that.
+
+**Cordelia:** No, that's too much. I think life, in general _[laughter]_, I mean Phillip Meyer's _Life_, is a really, really cool example of creating tactile comics from scratch. Not trying to create a version of an existing comics, but creating a comic that is always meant to be experienced tactilely. What's great is it draws on these concepts of braille because it uses these dots, but it's also something that - I don't know braille, but I could read that comic. And even visually, there's that narration, but anyone could feel it and understand it, which is really, really cool.
+
+**Patrick:** So, I did have a question. _Life_ I've seen before, and I'm just thinking about what transcribing it would be like. It makes me wonder, if you were gonna transcribe it, would you have to imply the relationship between the dots in the transcription? It's a thing you build reading it, visually or tactilely, because they appear to have a relationship. But if you were going to transcribe it, you'd have to say, "A dot appears from this lefthand side, and it seems to circle the middle dot. And then they connect, and they overlap, and then they separate and a new dot appears."
+
+**Meggie:** I think that's how I'd transcribe it, though. I think if you said there was a relationship between the circles, that kind of gets into the area of putting an opinion on the artpiece. The whole main concept of _Life_, in general _[laughter]_, is that you're supposed to experience these dots and you're supposed to come to the conclusion that it is a story on its own. I think that if you were going to tell it, I don't think you could be like, _[dramatic voice]_ "One dot appears. It's all alone. A second dot appears. Their eyes meet across the room."
+
+_[laughter]_
+
+**Meggie:** I think you have to do it: "One dot is here. Another dot is here. They move together." I think, for this particular situation, that's how I personally would do the transcript. I would want whoever is experiencing the art - if they're doing it visually, if they're doing it narratively, if they're doing it tactilely - to try and place their own narrative on whatever their experience with it is.
+
+**Cordelia:** This is an interesting exercise in itself. This is a podcast. There is no visual component to this podcast.
+
+**Meggie:** It's really hard. _[laughs]_
+
+**Cordelia:** How are we describing these tactile or visual comics on a podcast? An interesting exercise, if you're trying to transcribe your comic, is just to sit down and turn on an audio recording and read your comic aloud as if you were reading it on a radio or on a podcast. Then you start to realize what are the important parts of it, what are the things that someone needs to know in order to navigate this space. ... Oooh, side note: I really want to talk about _Shapereader_.
+
+**Meggie:** Cordelia gave us another example called _Shapereader_ which is by - do you know how to say their name? Ilan?
+
+**Cordelia:** I do not know, and I apologize in advance. I'm gonna try it: Ilan Manouach.
+
+**Meggie:** Yes, and you should probably talk more about this.
+
+**Cordelia:** Oh my gosh, it's _such_ a cool thing, because they developed a framework for creating tactile comics. And it's kind of abstract. At the beginning of this comic, which is a series of very large plates - not like eating plates but like, uh... -
+
+**Meggie:** Like printing plates!
+
+**Cordelia:** - yeah, printing plates! There's a key of all these different textures, and it tells you what these textures represent. And these textures could represent feelings, like anxiety, which is a very common feeling for me _[laughter]_. They could represent feelings or characters, and then the actual comic itself is all these different textures butting up against each other in different shapes. It's really interesting because there's not a linear flow - you know, when you have a narrative, like a transcript, there's a linear flow to it. But here's this block of different textures butting up against each other. You feel around in whatever way you want, to understand this moment. It's _amazing_.
+
+**Meggie:** This does have a story. So, the tactile blocks - I want to say there's 50 or more different ones? - and some have hearts, some have squiggly lines, and they're - I want to say - an inch by two inches. Each one, like Cordelia said, indicates a character or an adverb. Some of them are light squiggly lines, and it's like, anxiety. And then the squiggly lines get thicker, and it's like, _more_ anxiety. _[laughter]_ Then the thickest iteration of that tactile block is, like, _the most anxious_. And it tells the story of these two explorers who go to the North Pole and find a block of ice that they try and translate. It's really cool because it's something that was designed for visually impaired people to show a story, but it's also something that if you're not visually impaired, you can also experience this.
+
+**Cordelia:** Absolutely.
+
+**Meggie:** You don't have to be able to read braille, you can just use this visual dictionary to get through. It's just _really cool_!
+
+**Cordelia:** It's so cool. You all have to look this up online because also visually, it's _stunning_.
+
+**Meggie:** That's the other thing - the way that these plates are set up, it's just gorgeous.
+
+**Cordelia:** To me it's a really cool idea because we were talking about not throwing your own opinion onto an artpiece. What I love about it being this almost free-form block full of all these different textures is that _you_ get to explore as the reader and find those anxiety lines, and find those anxiety lines are creeping around the texture for this particular character. _You_ get to interpret into that how anxious this person must be feeling. It's just _soooo_ cool. It's so cool.
+
+**Meggie:** Sam, my partner, is working on this giant gallery exhibition that's gonna take place in 2020. It's happening in galleries across the country, and the theme is extraction and how extracting certain minerals from the world is not environmentally friendly. It's a very environmental show, and he saw this and was like, "I gotta try and get that artist in the show." So we're hoping we can talk to this guy about it, because it's just really cool. ... Alright, I feel like this could be a 2 hour episode, but we should probably get to wrapping it up.
+
+**Cordelia:** Tactile comics, I think, are going to be a really fun thing to explore. I just feel like that's something we should all be paying attention to, and something that the children's book world has been doing for ages, when you think about all these different textures within children's books.
+
+**Meggie:** It's really in the very first stages right now. So there's so much that _you_ could do, if you're like, "I really want to do tactile comics." Just do it! _[laughter]_ There's no wrong answer at this point. The sky's the limit! Do what you can. Really, _Life_ and _Shapereader_ - and there's one or two others that are also examples - we want to have 50 examples to give you.
+
+**Cordelia:** Te thing I'd close this episode out with is, going back to that idea that everything is a comic, can we make comics out of sound? Can we make comics out of texture? Can we make comics out of -
+
+**Meggie:** - music!
+
+**Cordelia:** - taste!
+
+**Meggie:** A taste comic!
+
+_[laughter]_
+
+**Cordelia:** Think about all the different senses. If it's really about the juxtaposition between two different things and the narrative that's formed out of that, what if we make a comic about the smell of a laundromat _[laughter]_ combined with the smell of these donuts?
+
+**Meggie:** I'm just thinking of a taste comic that's at an exhibit, and each panel is a different taste. You go through and you look and "Oh, that one's bacon! Oh that one's ketchup!" and then you're like, "Alright, next person, it's your turn to lick the comic!" _[laughter]_ It would be so gross.
+
+**Cordelia:** Maybe we'll start with scratch and sniffs.
+
+**Patrick:** In food and cocktails and stuff like that, narrative is already a fundamental element of how those things are crafted. A cocktail is supposed to be a full experience from start to finish. It's a story! Right?
+
+### [57:15 - 59:26] Outros
+
+_[Cordelia and Meggie laugh]_
+
+**Meggie:** Sorry, we're getting distracted because the neighborhood cat just came to say hi at the window.
+
+**Patrick:** Aw, what's up!
+
+**Meggie:** His name is Blinken -
+
+**Cordelia:** That was pretty cute.
+
+**Meggie:** - and he wants to hang out with Talulu. Talulu gives zero fucks.
+
+_[laughter]_
+
+**Meggie:** Alright, Cordelia, if people want to find you on the internet, how do they do that? Where do they go?
+
+**Cordelia:** My internet name is Cordelia Dillon, so people can find me on Twitter, Instagram, on my website, if you type in CordeliaDillon. So it's Dillon like dill pickles, not Dylan like Bob Dylan. And that'll get you to all of my different stuff. My website links to everything.
+
+**Meggie:** You definitely gotta check that out. Patrick, where do people find you if they want to find you?
+
+**Patrick:** They're gonna find me on Instagram and Twitter @plutarian_2, or they can go to my website PatrickLayComics.com and find all my junk. Meggie, where they gonna find you at?
+
+**Meggie:** I am MeggieTheRamm on Patreon, Instagram, Twitter. If you want to find _us_ and talk to us about this episode - I'm not gonna lie, I fuckin' loved this one - you can email us at pwbpod@gmail.com or check us out on Twitter or Instagram @pop_whiz_bang. Am I missing any of our social media, Patrick?
+
+**Patrick:** I think we got it all! _[laughs]_
+
+**Meggie:** Okay, because I can never frickin' remember. We hope you enjoyed this episode! Please tune in next week when we are going to talk about CeCe Bell's _El Deafo_ with, you guessed it, Cordelia _again_!
+
+_[Cordelia "woo"s]_
+
+**Meggie:** We're done talking about accessible comics now.
+
+**Patrick:** You're gonna have to go read, and touch, and listen, and taste some.
+
+**Meggie:** And smell!
+
+**Patrick:** And smell.
+
+**Meggie:** Sniff it!
+
+_[laughter]_
+
+**Meggie:** Alright, bye!
+
+_[outro music]_
