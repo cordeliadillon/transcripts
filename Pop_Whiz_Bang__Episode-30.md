@@ -18,7 +18,7 @@
 ### [0:00 - 3:35] Intros
 _[intro music]_
 
-**Patrick:** Welcome to Pop! Whiz! Bang!, a comic conversation with Meggie Ramm and Patrick Lay. I'm Patrick Lay. My pronouns are he and him.
+**Patrick:** Welcome to [Pop! Whiz! Bang!](https://soundcloud.com/pwbpod/), a comic conversation with Meggie Ramm and Patrick Lay. I'm Patrick Lay. My pronouns are he and him.
 
 **Meggie:** And I'm Meggie Ramm. My pronouns are she/her or they/them. This is not a podcast about the most recent releases from Marvel and DC, it's about the theory and process behind the comics that you know and love. We're so excited because we have with us, once again, Cordelia McGee-Tubb. Cordelia, say hi!
 
