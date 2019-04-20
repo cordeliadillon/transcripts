@@ -4,7 +4,7 @@
 
 **Content warning:** Curse words
 
-## Quick Links
+## Quick Navigation
 - [\[0:00 - 7:18\] Jerry-ontology and other topics](#000---718-jerry-ontology-and-other-topics)
 - [\[7:18 - 12:24\] Why are we talking about accessible comics today?](#718---1224-why-are-we-talking-about-accessible-comics-today)
 - [\[12:24 - 21:09\] An intro to accessibility and comics](#1224---2109-an-intro-to-accessibility-and-comics)
