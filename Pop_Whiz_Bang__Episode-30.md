@@ -4,11 +4,18 @@
 
 **Content warning:** Curse words
 
-## Quick Links
-[TBD]
+## Quick Navigation
+- [\[0:00 - 3:35\] Intros](#000---335-intros)
+- [\[3:35 - 7:37\] About _El Deafo_](#335---737-about-el-deafo)
+- [\[7:37 - 11:48\] About Cece Bell](#737---1148-about-cece-bell)
+- [\[11:48 - 30:40\] Dicussing _El Deafo_](#1148---3040-discussing-el-deafo)
+- [\[30:40 - 37:38\] Discussing comics technique](#3040---3738-discussing-comics-technique)
+- [\[37:38 - 41:44\] Maybe we go on some tangents...](#3738---4144-maybe-we-go-on-some-tangents)
+- [\[41:44 - 45:23\] Recommendations](#4144---4523-recommendations)
+- [\[45:23 - 48:19\] Outros](#4523---4819-outros)
 
 ## Transcript
-### [0:00 - 3:35] Introductions
+### [0:00 - 3:35] Intros
 _[intro music]_
 
 **Patrick:** Welcome to Pop! Whiz! Bang!, a comic conversation with Meggie Ramm and Patrick Lay. I'm Patrick Lay. My pronouns are he and him.
@@ -81,7 +88,7 @@ _[laughter]_
 
 _[laughter]_
 
-### [3:35 - 7:37] Intro to _El Deafo_
+### [3:35 - 7:37] About _El Deafo_
 
 **Meggie:** Today we're talking _El Deafo_ by Cece Bell. It's a #1 New York Times bestseller. It's also one of Cordelia's favorite books, which is great.
 
@@ -153,7 +160,7 @@ _[laughter at the tone of awe in Meggie's voice]_
 
 **Meggie:** It's not like, "I guess this person won an award because, uh, _[shrug sound]_." This has everything that a really good comic, a really good children's book, and a really good book has. So way to go, _El Deafo_!
 
-### [11:48 - 30:40] Digging into _El Deafo_
+### [11:48 - 30:40] Discussing _El Deafo_
 
 **Meggie:** As we said before, _El Deafo_ is about a character called Cece who, when she's younger contracts meningitis, which causes her to have hearing loss. It happens when she's 4, so she's really, really, really little. The story follows her as she has to deal with the different parts of having hearing loss in school, and also just different parts of growing up as a kid, which is my favorite part of the book. They do a really good job of just being a kid and feeling like everyone's looking at you, and sticking out, and it's just wonderful. We've got a couple different characters in this book. We've got Cece; it's great because they age her as time goes on. Her hair slowly gets longer, she gets glasses. She has a different litany of friends, which is another really great part about this book, how kid friendships work out.
 
@@ -297,7 +304,7 @@ _[laughter]_
 
 **Meggie:** She's got these super powers, and one of the things that she does is she imagines what El Deafo would do in situations, which is usually her speaking up for herself. When she's got the friend Laura who's just awful and mean and pushy, after the sleepover, she's like, "What would El Deafo do in this situation? I'd tell Ginny to stop talking to me in a disrespectful way. I'd tie up Laura and tell her I don't want to put makeup on." It's great.
 
-### [30:40 - 37:38] Comics technique
+### [30:40 - 37:38] Discussing comics technique
 
 **Meggie:** It's also really visually interesting, because when they switch over to El Deafo, Cece puts halftone in the background. It kind of turns into a little bit more of a comic-y comic book. 
 
