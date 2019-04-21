@@ -8,7 +8,7 @@
 - [\[0:00 - 3:35\] Intros](#000---335-intros)
 - [\[3:35 - 7:37\] About _El Deafo_](#335---737-about-el-deafo)
 - [\[7:37 - 11:48\] About Cece Bell](#737---1148-about-cece-bell)
-- [\[11:48 - 30:40\] Dicussing _El Deafo_](#1148---3040-discussing-el-deafo)
+- [\[11:48 - 30:40\] Discussing _El Deafo_](#1148---3040-discussing-el-deafo)
 - [\[30:40 - 37:38\] Discussing comics technique](#3040---3738-discussing-comics-technique)
 - [\[37:38 - 41:44\] Maybe we go on some tangents...](#3738---4144-maybe-we-go-on-some-tangents)
 - [\[41:44 - 45:23\] Recommendations](#4144---4523-recommendations)
